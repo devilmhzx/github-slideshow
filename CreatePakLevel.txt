@@ -1,3 +1,0 @@
-@echo off
-"F:\UE4\UnrealEngine-4.15\Engine\Binaries\Win64\UnrealPak.exe" D:\ue_pak\AI48_002.Pak -create=F:\UE4\UnrealEngine-4.15\Engine\Programs\AutomationTool\Saved\Logs\PakList_AI48_002-WindowsNoEditor.txt
-pause
